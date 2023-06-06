@@ -1,3 +1,4 @@
+
 The	html
 state	html
 of	html
@@ -686,6 +687,7 @@ Google	html
 Google	html
 Products	html
 Help	html
+
 The	head
 state	head
 of	head
@@ -694,11 +696,16 @@ and	head
 video	head
 in	head
 APAC	head
+
 Ad	a
 Manager	a
+
 No	label
+
 Continue	div
+
 Continue	button
+
 Congratulations!	div
 Congratulations!	div
 You	div
@@ -744,6 +751,7 @@ been	div
 approved.	div
 Sign	div
 up	div
+
 Congratulations!	div
 Congratulations!	div
 You	div
@@ -760,7 +768,9 @@ Continue	div
 to	div
 sign	div
 up	div
+
 Congratulations!	h2
+
 Congratulations!	p
 You	p
 are	p
@@ -772,14 +782,17 @@ for	p
 Google	p
 Ad	p
 Manager.	p
+
 Continue	div
 to	div
 sign	div
 up	div
+
 Continue	a
 to	a
 sign	a
 up	a
+
 Sign	div
 Up	div
 for	div
@@ -809,13 +822,16 @@ been	div
 approved.	div
 Sign	div
 up	div
+
 Ad	span
 Manager	span
+
 Sign	h2
 Up	h2
 for	h2
 Google	h2
 AdSense	h2
+
 You	p
 need	p
 an	p
@@ -838,10 +854,13 @@ application	p
 has	p
 been	p
 approved.	p
+
 Sign	div
 up	div
+
 Sign	a
 up	a
+
 Report	main
 APAC’s	main
 changing	main
@@ -1335,6 +1354,7 @@ more	main
 See	main
 all	main
 resources	main
+
 Report	section
 APAC’s	section
 changing	section
@@ -1348,6 +1368,7 @@ companies	section
 can	section
 keep	section
 up	section
+
 Report	div
 APAC’s	div
 changing	div
@@ -1361,6 +1382,7 @@ companies	div
 can	div
 keep	div
 up	div
+
 Report	div
 APAC’s	div
 changing	div
@@ -1374,6 +1396,7 @@ companies	div
 can	div
 keep	div
 up	div
+
 Report	div
 APAC’s	div
 changing	div
@@ -1387,6 +1410,7 @@ companies	div
 can	div
 keep	div
 up	div
+
 Report	div
 APAC’s	div
 changing	div
@@ -1400,6 +1424,7 @@ companies	div
 can	div
 keep	div
 up	div
+
 Capabilities	nav
 Partner	nav
 Solutions	nav
@@ -1407,6 +1432,7 @@ Success	nav
 Stories	nav
 Resources	nav
 Blog	nav
+
 Report	div
 APAC’s	div
 changing	div
@@ -1420,6 +1446,7 @@ companies	div
 can	div
 keep	div
 up	div
+
 Report	div
 APAC’s	div
 changing	div
@@ -1433,8 +1460,11 @@ companies	div
 can	div
 keep	div
 up	div
+
 Report	div
+
 Report	span
+
 APAC’s	h1
 changing	h1
 digital	h1
@@ -1447,23 +1477,29 @@ companies	h1
 can	h1
 keep	h1
 up	h1
+
 Tags	div
 Advanced	div
 TV	div
 Video	div
+
 Tags	div
 Advanced	div
 TV	div
 Video	div
+
 Tags	div
 Advanced	div
 TV	div
 Video	div
+
 Tags	div
 Advanced	div
 TV	div
 Video	div
+
 Tags	h5
+
 Capabilities	ul
 Partner	ul
 Solutions	ul
@@ -1471,15 +1507,21 @@ Success	ul
 Stories	ul
 Resources	ul
 Blog	ul
+
 Advanced	ul
 TV	ul
 Video	ul
+
 Advanced	li
 TV	li
+
 Advanced	a
 TV	a
+
 Video	li
+
 Video	a
+
 This	article
 piece	article
 was	article
@@ -1936,6 +1978,7 @@ these	article
 changes	article
 remains	article
 constant.	article
+
 This	div
 piece	div
 was	div
@@ -2392,6 +2435,7 @@ these	div
 changes	div
 remains	div
 constant.	div
+
 This	div
 piece	div
 was	div
@@ -2848,6 +2892,7 @@ these	div
 changes	div
 remains	div
 constant.	div
+
 This	div
 piece	div
 was	div
@@ -3304,6 +3349,7 @@ these	div
 changes	div
 remains	div
 constant.	div
+
 This	section
 piece	section
 was	section
@@ -3493,7 +3539,9 @@ facing.	section
 Email	section
 support	section
 available	section
+
 Capabilities	li
+
 This	div
 piece	div
 was	div
@@ -3680,6 +3728,7 @@ the	div
 challenges	div
 they’re	div
 facing.	div
+
 This	p
 piece	p
 was	p
@@ -3690,6 +3739,7 @@ Think	p
 With	p
 Google	p
 Asia-Pacific.	p
+
 This	em
 piece	em
 was	em
@@ -3700,9 +3750,11 @@ Think	em
 With	em
 Google	em
 Asia-Pacific.	em
+
 Think	a
 With	a
 Google	a
+
 The	p
 broadcast	p
 and	p
@@ -3853,7 +3905,9 @@ and	p
 consumer	p
 expectations	p
 increase.	p
+
 1	sup
+
 Our	p
 team	p
 works	p
@@ -3880,23 +3934,30 @@ the	p
 challenges	p
 they’re	p
 facing.	p
+
 Email	div
 support	div
 available	div
+
 .bg_9UI_iKBvrkM,	style
 .bg_9UI_iKBvrkM:focus{	style
 background-image:url('https://img.youtube.com/vi/9UI_iKBvrkM/hqdefault.jpg');	style
 }	style
+
 Email	a
 support	a
 available	a
+
 Capabilities	a
+
 Email	svg
 support	svg
 available	svg
+
 Email	title
 support	title
 available	title
+
 Tackling	section
 the	section
 digital	section
@@ -4164,11 +4225,13 @@ these	section
 changes	section
 remains	section
 constant.	section
+
 Tackling	h2
 the	h2
 digital	h2
 transformation	h2
 together	h2
+
 Making	div
 the	div
 shift	div
@@ -4431,6 +4494,7 @@ these	div
 changes	div
 remains	div
 constant.	div
+
 Making	p
 the	p
 shift	p
@@ -4492,12 +4556,15 @@ of	p
 the	p
 media	p
 industry:	p
+
 shift	a
 to	a
 digital	a
+
 shift	span
 to	span
 digital	span
+
 Content	ol
 development:	ol
 Leveraging	ol
@@ -4680,6 +4747,7 @@ via	ol
 the	ol
 cloud	ol
 infrastructure.	ol
+
 Content	li
 development:	li
 Leveraging	li
@@ -4726,10 +4794,13 @@ of	li
 using	li
 these	li
 technologies.	li
+
 Partner	li
 Solutions	li
+
 Content	strong
 development:	strong
+
 Content	li
 distribution:	li
 Whether	li
@@ -4761,8 +4832,10 @@ the	li
 forefront	li
 of	li
 technology.	li
+
 Content	strong
 distribution:	strong
+
 Viewer	li
 acquisition	li
 and	li
@@ -4795,10 +4868,12 @@ facilitate	li
 deep	li
 brand	li
 engagement.	li
+
 Viewer	strong
 acquisition	strong
 and	strong
 engagement:	strong
+
 Flexible	li
 monetization:	li
 With	li
@@ -4847,8 +4922,10 @@ find	li
 the	li
 right	li
 methods.	li
+
 Flexible	strong
 monetization:	strong
+
 Efficiency	li
 and	li
 insights:	li
@@ -4874,9 +4951,11 @@ via	li
 the	li
 cloud	li
 infrastructure.	li
+
 Efficiency	strong
 and	strong
 insights:	strong
+
 As	p
 the	p
 APAC	p
@@ -4896,8 +4975,10 @@ these	p
 changes	p
 remains	p
 constant.	p
+
 Partner	a
 Solutions	a
+
 eMarketer,	div
 Digital	div
 Video	div
@@ -4907,6 +4988,7 @@ Countries,	div
 2019.	div
 Share	div
 article	div
+
 eMarketer,	div
 Digital	div
 Video	div
@@ -4916,6 +4998,7 @@ Countries,	div
 2019.	div
 Share	div
 article	div
+
 eMarketer,	div
 Digital	div
 Video	div
@@ -4925,6 +5008,7 @@ Countries,	div
 2019.	div
 Share	div
 article	div
+
 eMarketer,	div
 Digital	div
 Video	div
@@ -4934,6 +5018,7 @@ Countries,	div
 2019.	div
 Share	div
 article	div
+
 eMarketer,	div
 Digital	div
 Video	div
@@ -4941,6 +5026,7 @@ Viewers	div
 by	div
 Countries,	div
 2019.	div
+
 eMarketer,	ol
 Digital	ol
 Video	ol
@@ -4948,6 +5034,7 @@ Viewers	ol
 by	ol
 Countries,	ol
 2019.	ol
+
 eMarketer,	li
 Digital	li
 Video	li
@@ -4955,6 +5042,7 @@ Viewers	li
 by	li
 Countries,	li
 2019.	li
+
 eMarketer,	p
 Digital	p
 Video	p
@@ -4962,6 +5050,7 @@ Viewers	p
 by	p
 Countries,	p
 2019.	p
+
 eMarketer,	span
 Digital	span
 Video	span
@@ -4969,14 +5058,19 @@ Viewers	span
 by	span
 Countries,	span
 2019.	span
+
 Share	div
 article	div
+
 Success	li
 Stories	li
+
 Share	div
 article	div
+
 Share	p
 article	p
+
 You	section
 might	section
 also	section
@@ -4988,26 +5082,32 @@ more	section
 See	section
 all	section
 resources	section
+
 You	div
 might	div
 also	div
 like:	div
+
 You	div
 might	div
 also	div
 like:	div
+
 You	div
 might	div
 also	div
 like:	div
+
 You	div
 might	div
 also	div
 like:	div
+
 You	h3
 might	h3
 also	h3
 like:	h3
+
 {[item.metadata.article_type]}	div
 {[item.title]}	div
 Read	div
@@ -5015,6 +5115,7 @@ more	div
 See	div
 all	div
 resources	div
+
 {[item.metadata.article_type]}	div
 {[item.title]}	div
 Read	div
@@ -5022,38 +5123,50 @@ more	div
 See	div
 all	div
 resources	div
+
 Success	a
 Stories	a
+
 {[item.metadata.article_type]}	div
 {[item.title]}	div
 Read	div
 more	div
+
 {[item.metadata.article_type]}	div
 {[item.title]}	div
 Read	div
 more	div
+
 {[item.metadata.article_type]}	ul
 {[item.title]}	ul
 Read	ul
 more	ul
+
 {[item.metadata.article_type]}	li
 {[item.title]}	li
 Read	li
 more	li
+
 {[item.metadata.article_type]}	a
 {[item.title]}	a
 Read	a
 more	a
+
 {[item.metadata.article_type]}	div
 {[item.title]}	div
 Read	div
 more	div
+
 {[item.metadata.article_type]}	div
+
 {[item.title]}	h3
+
 Read	ul
 more	ul
+
 Read	li
 more	li
+
 The	title
 state	title
 of	title
@@ -5062,13 +5175,17 @@ and	title
 video	title
 in	title
 APAC	title
+
 Resources	li
+
 See	div
 all	div
 resources	div
+
 See	a
 all	a
 resources	a
+
 Follow	footer
 us	footer
 About	footer
@@ -5131,14 +5248,19 @@ Google	footer
 Google	footer
 Products	footer
 Help	footer
+
 Follow	section
 us	section
+
 Follow	section
 us	section
+
 Follow	div
 us	div
+
 Follow	p
 us	p
+
 About	nav
 Google	nav
 Ad	nav
@@ -5192,6 +5314,7 @@ Business	nav
 Solutions	nav
 Google	nav
 Workspace	nav
+
 About	div
 Google	div
 Ad	div
@@ -5245,6 +5368,7 @@ Business	div
 Solutions	div
 Google	div
 Workspace	div
+
 About	div
 Google	div
 Ad	div
@@ -5298,7 +5422,9 @@ Business	div
 Solutions	div
 Google	div
 Workspace	div
+
 Resources	a
+
 About	div
 Google	div
 Ad	div
@@ -5307,49 +5433,71 @@ Overview	div
 Capabilities	div
 Partner	div
 Solutions	div
+
 About	h4
 Google	h4
 Ad	h4
 Manager	h4
+
 Overview	div
 Capabilities	div
 Partner	div
 Solutions	div
+
 Overview	ul
 Capabilities	ul
 Partner	ul
 Solutions	ul
+
 Overview	li
+
 Overview	a
+
 Capabilities	li
+
 Capabilities	a
+
 Partner	li
 Solutions	li
+
 Partner	a
 Solutions	a
+
 Blog	li
+
 Learning	div
 &	div
 support	div
 Support	div
 Blog	div
 Skillshop	div
+
 Learning	h4
 &	h4
 support	h4
+
 Support	div
 Blog	div
 Skillshop	div
+
 Support	ul
 Blog	ul
 Skillshop	ul
+
 Support	li
+
 Support	a
+
 Blog	li
+
 Blog	a
+
 Skillshop	li
+
 Skillshop	a
+
 Blog	a
+
 Developers	div
 &	div
 partners	div
@@ -5363,9 +5511,11 @@ developers	div
 Certified	div
 Publishing	div
 Partners	div
+
 Developers	h4
 &	h4
 partners	h4
+
 Google	div
 developers	div
 site	div
@@ -5376,6 +5526,7 @@ developers	div
 Certified	div
 Publishing	div
 Partners	div
+
 Google	ul
 developers	ul
 site	ul
@@ -5386,31 +5537,39 @@ developers	ul
 Certified	ul
 Publishing	ul
 Partners	ul
+
 Google	li
 developers	li
 site	li
+
 Google	a
 developers	a
 site	a
+
 Ad	li
 Manager	li
 for	li
 developers	li
+
 Ad	a
 Manager	a
 for	a
 developers	a
+
 Certified	li
 Publishing	li
 Partners	li
+
 Certified	a
 Publishing	a
 Partners	a
+
 Support	div
 Sign	div
 in	div
 Get	div
 started	div
+
 Related	div
 products	div
 Google	div
@@ -5424,8 +5583,10 @@ Google	div
 AdMob	div
 Google	div
 Cloud	div
+
 Related	h4
 products	h4
+
 Google	div
 Marketing	div
 Platform	div
@@ -5437,6 +5598,7 @@ Google	div
 AdMob	div
 Google	div
 Cloud	div
+
 Google	ul
 Marketing	ul
 Platform	ul
@@ -5448,33 +5610,45 @@ Google	ul
 AdMob	ul
 Google	ul
 Cloud	ul
+
 Google	li
 Marketing	li
 Platform	li
+
 Google	a
 Marketing	a
 Platform	a
+
 Google	li
 Ads	li
+
 Google	a
 Ads	a
+
 Google	li
 AdSense	li
+
 Google	a
 AdSense	a
+
 Support	ul
 Sign	ul
 in	ul
 Get	ul
 started	ul
+
 Google	li
 AdMob	li
+
 Google	a
 AdMob	a
+
 Google	li
 Cloud	li
+
 Google	a
 Cloud	a
+
 More	div
 from	div
 Google	div
@@ -5488,9 +5662,11 @@ Business	div
 Solutions	div
 Google	div
 Workspace	div
+
 More	h4
 from	h4
 Google	h4
+
 Think	div
 with	div
 Google	div
@@ -5501,6 +5677,7 @@ Business	div
 Solutions	div
 Google	div
 Workspace	div
+
 Think	ul
 with	ul
 Google	ul
@@ -5511,27 +5688,37 @@ Business	ul
 Solutions	ul
 Google	ul
 Workspace	ul
+
 Think	li
 with	li
 Google	li
+
 Think	a
 with	a
 Google	a
+
 Support	li
+
 Google	li
 Revenue	li
 Solutions	li
+
 Google	a
 Revenue	a
 Solutions	a
+
 Business	li
 Solutions	li
+
 Business	a
 Solutions	a
+
 Google	li
 Workspace	li
+
 Google	a
 Workspace	a
+
 Privacy	section
 Terms	section
 About	section
@@ -5539,28 +5726,42 @@ Google	section
 Google	section
 Products	section
 Help	section
+
 Privacy	ul
 Terms	ul
 About	ul
 Google	ul
 Google	ul
 Products	ul
+
 Privacy	li
+
 Privacy	a
+
 Support	a
+
 Terms	li
+
 Terms	a
+
 About	li
 Google	li
+
 About	a
 Google	a
+
 Google	li
 Products	li
+
 Google	a
 Products	a
+
 Help	ul
+
 Help	li
+
 Help	a
+
 const	script
 dataCategory	script
 =	script
@@ -5582,10 +5783,13 @@ companies	script
 can	script
 keep	script
 up';	script
+
 Sign	li
 in	li
+
 Sign	a
 in	a
+
 window.dataLayer	script
 =	script
 [{	script
@@ -5606,10 +5810,13 @@ articles',	script
 ['ad	script
 manager']	script
 }];	script
+
 Get	li
 started	li
+
 Get	a
 started	a
+
 Ad	div
 Manager	div
 Capabilities	div
@@ -5643,6 +5850,7 @@ Sign	div
 in	div
 Get	div
 started	div
+
 Ad	div
 Manager	div
 Capabilities	div
@@ -5671,18 +5879,25 @@ Success	div
 Stories	div
 Resources	div
 Blog	div
+
 Ad	div
 Manager	div
+
 Ad	div
 Manager	div
+
 Ad	div
 Manager	div
+
 Ad	div
 Manager	div
+
 Ad	span
 Manager	span
+
 Ad	a
 Manager	a
+
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':	script
 new	script
 Date().getTime(),event:'gtm.js'});var	script
@@ -5692,8 +5907,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=	script
 })(window,document,'script','dataLayer','GTM-MPHTW35');	script
 window.dataLayer.push({'gtm.blacklist':	script
 ['customScripts']});	script
+
 Ad	span
 Manager	span
+
 Capabilities	nav
 Formats	nav
 Video	nav
@@ -5720,6 +5937,7 @@ Success	nav
 Stories	nav
 Resources	nav
 Blog	nav
+
 Capabilities	ul
 Formats	ul
 Video	ul
@@ -5746,6 +5964,7 @@ Success	ul
 Stories	ul
 Resources	ul
 Blog	ul
+
 Capabilities	li
 Formats	li
 Video	li
@@ -5756,7 +5975,9 @@ Data	li
 Insights	li
 Brand	li
 Safety	li
+
 Capabilities	a
+
 Formats	ul
 Video	ul
 Yield	ul
@@ -5766,10 +5987,15 @@ Data	ul
 Insights	ul
 Brand	ul
 Safety	ul
+
 Formats	li
+
 Formats	a
+
 Video	li
+
 Video	a
+
 Ad	body
 Manager	body
 Capabilities	body
@@ -6450,20 +6676,27 @@ Google	body
 Google	body
 Products	body
 Help	body
+
 Yield	li
 Management	li
+
 Yield	a
 Management	a
+
 Data	li
 &	li
 Insights	li
+
 Data	a
 &	a
 Insights	a
+
 Brand	li
 Safety	li
+
 Brand	a
 Safety	a
+
 Partner	li
 Solutions	li
 Apps	li
@@ -6476,8 +6709,10 @@ News	li
 Publishing	li
 Small	li
 Business	li
+
 Partner	a
 Solutions	a
+
 Apps	ul
 TV	ul
 &	ul
@@ -6488,7 +6723,9 @@ News	ul
 Publishing	ul
 Small	ul
 Business	ul
+
 Apps	li
+
 Ad	div
 Manager	div
 Capabilities	div
@@ -6536,27 +6773,38 @@ Sign	div
 in	div
 Get	div
 started	div
+
 Apps	a
+
 TV	li
 &	li
 Broadcast	li
+
 TV	a
 &	a
 Broadcast	a
+
 Commerce	li
+
 Commerce	a
+
 News	li
 &	li
 Publishing	li
+
 News	a
 &	a
 Publishing	a
+
 Small	li
 Business	li
+
 Small	a
 Business	a
+
 Success	li
 Stories	li
+
 Ad	div
 Manager	div
 Capabilities	div
@@ -6571,34 +6819,49 @@ Sign	div
 in	div
 Get	div
 started	div
+
 Success	a
 Stories	a
+
 Resources	li
+
 Resources	a
+
 Blog	li
+
 Blog	a
+
 Support	div
 Sign	div
 in	div
 Get	div
 started	div
+
 Support	ul
 Sign	ul
 in	ul
 Get	ul
 started	ul
+
 Support	li
+
 Support	a
+
 Sign	li
 in	li
+
 Ad	div
 Manager	div
+
 Sign	a
 in	a
+
 Get	li
 started	li
+
 Get	a
 started	a
+
 ×	div
 Tell	div
 us	div
@@ -6677,6 +6940,7 @@ been	div
 approved.	div
 Sign	div
 up	div
+
 ×	div
 Tell	div
 us	div
@@ -6755,7 +7019,9 @@ been	div
 approved.	div
 Sign	div
 up	div
+
 ×	span
+
 Tell	form
 us	form
 about	form
@@ -6833,6 +7099,7 @@ been	form
 approved.	form
 Sign	form
 up	form
+
 Tell	div
 us	div
 about	div
@@ -6865,6 +7132,7 @@ account?	div
 Yes	div
 No	div
 Continue	div
+
 Tell	div
 us	div
 about	div
@@ -6887,13 +7155,16 @@ million	div
 million	div
 or	div
 more	div
+
 Tell	h2
 us	h2
 about	h2
 your	h2
 business	h2
+
 Ad	div
 Manager	div
+
 Approximately	p
 how	p
 many	p
@@ -6903,22 +7174,27 @@ does	p
 your	p
 website	p
 have?	p
+
 Less	div
 than	div
 1	div
 million	div
+
 Less	label
 than	label
 1	label
 million	label
+
 1	div
 million	div
 or	div
 more	div
+
 1	label
 million	label
 or	label
 more	label
+
 Do	div
 you	div
 have	div
@@ -6928,6 +7204,7 @@ AdSense	div
 account?	div
 Yes	div
 No	div
+
 Do	p
 you	p
 have	p
@@ -6935,6 +7212,10 @@ a	p
 Google	p
 AdSense	p
 account?	p
+
 Yes	div
+
 Yes	label
+
 No	div
+

@@ -40,9 +40,11 @@ def process_and_write(loaded_dicts, input_folder, text):
     """
     directory = 'conll-dir'
     
+    path = os.path.join(input_folder, directory)
+    
     #check if dir exists, if not make one
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+    if not os.path.exists(path):
+        os.makedirs(path)
     
     #get basename of path and change extension to '.conll'
     base = os.path.basename(text)[:-6]
@@ -50,7 +52,7 @@ def process_and_write(loaded_dicts, input_folder, text):
     basename = base + conll_str
     
     # add directory with files to the input folder
-    complete_name = os.path.join(directory, basename)
+    complete_name = os.path.join(path, basename)
     
     with open(complete_name, 'w', encoding='utf-8') as conll_file:
         # Process each JSON object in the JSONL file
@@ -65,6 +67,7 @@ def process_and_write(loaded_dicts, input_folder, text):
                 # Write each token and tag on a separate line
                 for token in tokens:
                     conll_file.write(f'{token}\t{tag}\n')
+                conll_file.write('\n')
         
 def main():
     
